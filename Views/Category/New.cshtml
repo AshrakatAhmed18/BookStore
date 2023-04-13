@@ -1,0 +1,64 @@
+﻿@model CategoryVM
+@{
+    ViewData["Title"] = "New";
+    Layout = "~/Views/Shared/_newadminlayout.cshtml";
+}
+
+
+
+
+<div class="container-fluid">
+    <div class="form-head d-flex mb-3 align-items-start">
+        <div class="mr-auto d-none d-lg-block">
+            <h2 class="text-black font-w600 mb-0">Add Category</h2>
+        </div>
+
+
+    </div>
+
+    <!-- row -->
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+
+                <div class="card-body">
+                    <div class="basic-form">
+                        <form class="repeater row" asp-controller="Category" asp-action="New" enctype="multipart/form-data" method="post">
+                            
+                            <div class="form-group col-md-6">
+                                <label asp-for="name">Name</label>
+
+                                <input class="form-control input-default " type="text" asp-for="name">
+                                <span asp-validation-for="name" class="text-danger"></span>
+                            </div>
+                            
+
+
+                            <div class="form-group text-center col-12">
+                                <button type="submit" class="btn h-auto btn-primary">Save </button>
+                                <a asp-controller="Category" asp-action="Index" class="btn h-auto btn-primary">Back </a>
+
+                            </div>
+
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+  @section Scripts{
+
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+}
+ 
+   
+
+
+

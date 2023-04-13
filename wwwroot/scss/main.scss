@@ -1,0 +1,81 @@
+////////////////////
+// Abstracts
+////////////////////
+@import "./abstracts/abstracts";
+
+//bootstrap library scss files
+@import "./../vendor/bootstrap/scss/bootstrap";
+
+
+
+////////////////////
+// Global
+////////////////////
+@import "./base/base";
+
+@import "./preloader";
+
+
+////////////////////
+// Components
+////////////////////
+@import "./layout/layout";
+
+
+////////////////////
+// Components
+////////////////////
+@import "./components/components";
+
+
+////////////////////
+// All pages
+////////////////////
+@import "./pages/pages";
+
+
+
+////////////////////
+// RTL
+////////////////////
+@import "./layout/rtl/rtl";
+
+
+////////////////////
+// Version Color
+////////////////////
+@import "./layout/version-dark/main";
+
+
+.image-gallery{
+    .lightboxed{
+        display: none;
+    }
+    .lightboxed:first-child{
+        display: inline;
+    }
+}
+
+
+
+.custom-file {
+	
+	height: calc(2.5em + 0.75rem + 2px);
+}
+.custom-file-label {
+	height: 100%;
+	padding: 0.9rem 0.75rem;
+}
+
+.custom-file-label::after {
+
+	height: 100%;
+	padding: 0.8rem 0.75rem;
+
+}
+
+.custom-file-label {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}

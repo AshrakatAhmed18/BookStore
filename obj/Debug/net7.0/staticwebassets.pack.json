@@ -1,248 +1,2804 @@
 {
   "Files": [
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BooksEccommerce.bundle.scp.css",
+      "Id": "H:\\Book E-commerce\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BooksEccommerce.bundle.scp.css",
       "PackagePath": "staticwebassets\\BooksEccommerce.bundle.scp.css"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "H:\\Book E-commerce\\wwwroot\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\css\\perfect-scrollbar.css"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\favicon.ico",
+      "Id": "H:\\Book E-commerce\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "H:\\Book E-commerce\\wwwroot\\icons\\font-awesome-old\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\icons\\font-awesome-old\\css\\font-awesome.min.css"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
+      "Id": "H:\\Book E-commerce\\wwwroot\\icons\\line-awesome\\css\\line-awesome.min.css",
+      "PackagePath": "staticwebassets\\icons\\line-awesome\\css\\line-awesome.min.css"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "Id": "H:\\Book E-commerce\\wwwroot\\icons\\themify-icons\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\icons\\themify-icons\\css\\themify-icons.css"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "Id": "H:\\Book E-commerce\\wwwroot\\images\\0dfe89a3-5e42-407d-a879-bbec65a1fb26293181145_735397897737178_4273621372417322845_n.jpg",
+      "PackagePath": "staticwebassets\\images\\0dfe89a3-5e42-407d-a879-bbec65a1fb26293181145_735397897737178_4273621372417322845_n.jpg"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "Id": "H:\\Book E-commerce\\wwwroot\\images\\10c553b4-c2eb-471d-8c39-157174bcda4c293181145_735397897737178_4273621372417322845_n.jpg",
+      "PackagePath": "staticwebassets\\images\\10c553b4-c2eb-471d-8c39-157174bcda4c293181145_735397897737178_4273621372417322845_n.jpg"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "Id": "H:\\Book E-commerce\\wwwroot\\images\\7fd379ed-82e2-45b0-8788-f6eee2421f95293181145_735397897737178_4273621372417322845_n.jpg",
+      "PackagePath": "staticwebassets\\images\\7fd379ed-82e2-45b0-8788-f6eee2421f95293181145_735397897737178_4273621372417322845_n.jpg"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "Id": "H:\\Book E-commerce\\wwwroot\\images\\caea185d-b05c-4320-b0cf-b5eef99200c2293181145_735397897737178_4273621372417322845_n.jpg",
+      "PackagePath": "staticwebassets\\images\\caea185d-b05c-4320-b0cf-b5eef99200c2293181145_735397897737178_4273621372417322845_n.jpg"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "Id": "H:\\Book E-commerce\\wwwroot\\images\\logo-text.png",
+      "PackagePath": "staticwebassets\\images\\logo-text.png"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "Id": "H:\\Book E-commerce\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "Id": "H:\\Book E-commerce\\wwwroot\\images\\user.jpg",
+      "PackagePath": "staticwebassets\\images\\user.jpg"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "Id": "H:\\Book E-commerce\\wwwroot\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.min.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\custom.min.js",
+      "PackagePath": "staticwebassets\\js\\custom.min.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\dashboard\\analytics.js",
+      "PackagePath": "staticwebassets\\js\\dashboard\\analytics.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\dashboard\\dashboard-1.js",
+      "PackagePath": "staticwebassets\\js\\dashboard\\dashboard-1.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\deznav-init.js",
+      "PackagePath": "staticwebassets\\js\\deznav-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\layout-compact-nav.js",
+      "PackagePath": "staticwebassets\\js\\layout-compact-nav.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\layout-dark.js",
+      "PackagePath": "staticwebassets\\js\\layout-dark.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\layout-fixed-header.js",
+      "PackagePath": "staticwebassets\\js\\layout-fixed-header.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\layout-fixed-nav.js",
+      "PackagePath": "staticwebassets\\js\\layout-fixed-nav.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\layout-full-nav.js",
+      "PackagePath": "staticwebassets\\js\\layout-full-nav.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\layout-light.js",
+      "PackagePath": "staticwebassets\\js\\layout-light.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\layout-mini-nav.js",
+      "PackagePath": "staticwebassets\\js\\layout-mini-nav.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\layout-rtl.js",
+      "PackagePath": "staticwebassets\\js\\layout-rtl.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\bootstrap-multiselect-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\bootstrap-multiselect-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\bootstrap-tagsinput-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\bootstrap-tagsinput-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\bootstrap-touchpin-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\bootstrap-touchpin-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\bs-daterange-picker-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\bs-daterange-picker-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\chartist-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\chartist-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\chartjs-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\chartjs-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\clock-picker-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\clock-picker-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\color-picker-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\color-picker-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\counter-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\counter-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\datatables.init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\datatables.init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\flot-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\flot-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\fullcalendar-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\fullcalendar-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\jquery-asColorPicker.init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\jquery-asColorPicker.init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\jquery-steps-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\jquery-steps-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\jquery.validate-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\jquery.validate-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\jqvmap-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\jqvmap-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\material-date-picker-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\material-date-picker-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\morris-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\morris-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\nestable-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\nestable-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\nouislider-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\nouislider-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\pickadate-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\pickadate-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\piety-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\piety-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\select2-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\select2-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\sparkline-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\sparkline-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\summernote-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\summernote-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\sweetalert-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\sweetalert-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\sweetalert.init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\sweetalert.init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\toastr-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\toastr-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\plugins-init\\widgets-script-init.js",
+      "PackagePath": "staticwebassets\\js\\plugins-init\\widgets-script-init.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\settings.js",
+      "PackagePath": "staticwebassets\\js\\settings.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "Id": "H:\\Book E-commerce\\wwwroot\\js\\styleSwitcher.js",
+      "PackagePath": "staticwebassets\\js\\styleSwitcher.js"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\_preloader.scss",
+      "PackagePath": "staticwebassets\\scss\\_preloader.scss"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\abstracts\\_abstracts.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\_abstracts.scss"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\abstracts\\_bs-custom.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\_bs-custom.scss"
     },
     {
-      "Id": "E:\\iti\\asp.net mvc\\project\\BooksEccommerce\\BooksEccommerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\abstracts\\_inheritance.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\_inheritance.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\abstracts\\_maps.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\_maps.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\abstracts\\_mixin.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\_mixin.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\abstracts\\_variable.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\_variable.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\base\\_base.scss",
+      "PackagePath": "staticwebassets\\scss\\base\\_base.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\base\\_colors.scss",
+      "PackagePath": "staticwebassets\\scss\\base\\_colors.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\base\\_custom-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\base\\_custom-grid.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\base\\_fonts.scss",
+      "PackagePath": "staticwebassets\\scss\\base\\_fonts.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\base\\_helper.scss",
+      "PackagePath": "staticwebassets\\scss\\base\\_helper.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\base\\_reset.scss",
+      "PackagePath": "staticwebassets\\scss\\base\\_reset.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\_components.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_components.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\app\\_app-calender-date.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\app\\_app-calender-date.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\app\\_app-calender-event.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\app\\_app-calender-event.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\app\\_apps.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\app\\_apps.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\app\\_chat.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\app\\_chat.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\app\\_email.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\app\\_email.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\app\\_invoice.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\app\\_invoice.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\app\\_profile.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\app\\_profile.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\charts\\_chart-amchart.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\charts\\_chart-amchart.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\charts\\_chart-c3.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\charts\\_chart-c3.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\charts\\_chart-chartist.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\charts\\_chart-chartist.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\charts\\_chart-chartjs.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\charts\\_chart-chartjs.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\charts\\_chart-flot.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\charts\\_chart-flot.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\charts\\_chart-highcharts.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\charts\\_chart-highcharts.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\charts\\_chart-morris.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\charts\\_chart-morris.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\charts\\_chart-sparkline.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\charts\\_chart-sparkline.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\charts\\_charts.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\charts\\_charts.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\charts\\_easy-pie-chart.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\charts\\_easy-pie-chart.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\charts\\_echarts.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\charts\\_echarts.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\forms\\_form-addons-cropper.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\forms\\_form-addons-cropper.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\forms\\_form-addons-select2.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\forms\\_form-addons-select2.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\forms\\_form-advance-taginput.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\forms\\_form-advance-taginput.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\forms\\_form-basic.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\forms\\_form-basic.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\forms\\_form-checkbox.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\forms\\_form-checkbox.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\forms\\_form-dropzone.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\forms\\_form-dropzone.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\forms\\_form-editor-quill.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\forms\\_form-editor-quill.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\forms\\_form-pickers.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\forms\\_form-pickers.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\forms\\_form-radio-button.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\forms\\_form-radio-button.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\forms\\_form-steps.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\forms\\_form-steps.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\forms\\_form-summernote.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\forms\\_form-summernote.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\forms\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\forms\\_form-switch.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\forms\\_form-touchspin.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\forms\\_form-touchspin.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\forms\\_form-validation.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\forms\\_form-validation.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\forms\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\forms\\_forms.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\map\\_map-datamap.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\map\\_map-datamap.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\map\\_map-jqvmap.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\map\\_map-jqvmap.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\map\\_maps.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\map\\_maps.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\tables\\_table-basic.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\tables\\_table-basic.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\tables\\_table-bootgrid.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\tables\\_table-bootgrid.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\tables\\_table-datatable.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\tables\\_table-datatable.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\tables\\_table-footable.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\tables\\_table-footable.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\tables\\_table-jsgrid.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\tables\\_table-jsgrid.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\tables\\_table.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\tables\\_table.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\uc\\_addons.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\uc\\_addons.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\uc\\_dropzone.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\uc\\_dropzone.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\uc\\_jqvmap.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\uc\\_jqvmap.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\uc\\_perfect-scroll.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\uc\\_perfect-scroll.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\uc\\_uc-blockui.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\uc\\_uc-blockui.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\uc\\_uc-bootstrap-select.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\uc\\_uc-bootstrap-select.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\uc\\_uc-clipboard.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\uc\\_uc-clipboard.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\uc\\_uc-counterup.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\uc\\_uc-counterup.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\uc\\_uc-horizontal-timeline.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\uc\\_uc-horizontal-timeline.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\uc\\_uc-nestable.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\uc\\_uc-nestable.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\uc\\_uc-noui-slider.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\uc\\_uc-noui-slider.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\uc\\_uc-pignose-calender.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\uc\\_uc-pignose-calender.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\uc\\_uc-tagsinput.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\uc\\_uc-tagsinput.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\uc\\_uc-ticker.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\uc\\_uc-ticker.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\uc\\_uc-toastr.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\uc\\_uc-toastr.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\uc\\_uc-typeahead.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\uc\\_uc-typeahead.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\uc\\_uc-weather.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\uc\\_uc-weather.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_interfaces.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_interfaces.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-accordion.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-alert.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-alert.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-badge.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-badge.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-breadcrumb.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-button.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-button.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-card.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-card.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-carousel.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-dropdown.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-grid.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-label.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-label.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-list-group.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-media.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-media.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-menu.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-menu.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-modal.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-modal.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-pagination.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-popover.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-popover.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-preloader.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-preloader.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-pricing.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-pricing.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-progressbar.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-progressbar.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-ribbon.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-ribbon.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-scrollbar.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-scrollbar.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-step.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-step.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-tab.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-tab.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-timeline.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-timeline.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\ui\\_ui-tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\ui\\_ui-tooltip.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\widget\\_widget-card-list.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\widget\\_widget-card-list.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\widget\\_widget-chart.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\widget\\_widget-chart.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\widget\\_widget-media.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\widget\\_widget-media.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\widget\\_widget-messages.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\widget\\_widget-messages.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\widget\\_widget-pickadate.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\widget\\_widget-pickadate.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\widget\\_widget-social.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\widget\\_widget-social.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\widget\\_widget-stat.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\widget\\_widget-stat.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\widget\\_widget-todo-list.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\widget\\_widget-todo-list.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\components\\widget\\_widgets.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\widget\\_widgets.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\_layout.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_layout.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\footer\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\footer\\_footer.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\header\\_header-global.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\header\\_header-global.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\header\\_header-left.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\header\\_header-left.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\header\\_header-right.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\header\\_header-right.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\header\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\header\\_header.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\header\\nav-header\\_nav-control.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\header\\nav-header\\_nav-control.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\header\\nav-header\\_nav-header.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\header\\nav-header\\_nav-header.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\rtl\\_rtl-footer.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\rtl\\_rtl-footer.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\rtl\\_rtl-global.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\rtl\\_rtl-global.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\rtl\\_rtl-header.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\rtl\\_rtl-header.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\rtl\\_rtl-nav-header.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\rtl\\_rtl-nav-header.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\rtl\\_rtl-reset.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\rtl\\_rtl-reset.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\rtl\\_rtl-sidebar-right.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\rtl\\_rtl-sidebar-right.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\rtl\\_rtl-sidebar.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\rtl\\_rtl-sidebar.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\rtl\\_rtl.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\rtl\\_rtl.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\sidebar\\_fixed-sidebar.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\sidebar\\_fixed-sidebar.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\sidebar\\_mega-menu.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\sidebar\\_mega-menu.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\sidebar\\_sidebar-bg.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\sidebar\\_sidebar-bg.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\sidebar\\_sidebar-compact-nav.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\sidebar\\_sidebar-compact-nav.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\sidebar\\_sidebar-full.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\sidebar\\_sidebar-full.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\sidebar\\_sidebar-global.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\sidebar\\_sidebar-global.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\sidebar\\_sidebar-horizontal.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\sidebar\\_sidebar-horizontal.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\sidebar\\_sidebar-icon-hover.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\sidebar\\_sidebar-icon-hover.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\sidebar\\_sidebar-mini-nav.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\sidebar\\_sidebar-mini-nav.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\sidebar\\_sidebar-modern.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\sidebar\\_sidebar-modern.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\sidebar\\_sidebar-overlay.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\sidebar\\_sidebar-overlay.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\sidebar\\_sidebar-profile.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\sidebar\\_sidebar-profile.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\sidebar\\_sidebar-right.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\sidebar\\_sidebar-right.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\sidebar\\_sidebar-vertical-nav.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\sidebar\\_sidebar-vertical-nav.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\sidebar\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\sidebar\\_sidebar.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\theme\\_theme-bg.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\theme\\_theme-bg.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\theme\\_theme-boxed.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\theme\\_theme-boxed.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\theme\\_theme-color.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\theme\\_theme-color.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\theme\\_theme-wide-boxed.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\theme\\_theme-wide-boxed.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\theme\\_theme.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\theme\\_theme.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\typography\\_helvetica.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\typography\\_helvetica.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\typography\\_opensans.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\typography\\_opensans.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\typography\\_poppins.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\typography\\_poppins.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\typography\\_roboto.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\typography\\_roboto.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\typography\\_typography.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\typography\\_typography.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\version-dark\\_dark-footer.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\version-dark\\_dark-footer.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\version-dark\\_dark-global.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\version-dark\\_dark-global.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\version-dark\\_dark-header.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\version-dark\\_dark-header.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\version-dark\\_dark-left-sidebar.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\version-dark\\_dark-left-sidebar.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\version-dark\\_dark-nav-header.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\version-dark\\_dark-nav-header.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\version-dark\\_dark-preloader.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\version-dark\\_dark-preloader.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\version-dark\\_dark-reset.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\version-dark\\_dark-reset.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\version-dark\\_dark-right-sidebar.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\version-dark\\_dark-right-sidebar.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\version-dark\\_main.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\version-dark\\_main.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\version-transparent\\_main.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\version-transparent\\_main.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\version-transparent\\_transparent-footer.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\version-transparent\\_transparent-footer.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\version-transparent\\_transparent-global.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\version-transparent\\_transparent-global.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\version-transparent\\_transparent-header.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\version-transparent\\_transparent-header.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\version-transparent\\_transparent-left-sidebar.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\version-transparent\\_transparent-left-sidebar.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\version-transparent\\_transparent-nav-header.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\version-transparent\\_transparent-nav-header.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\version-transparent\\_transparent-preloader.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\version-transparent\\_transparent-preloader.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\version-transparent\\_transparent-reset.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\version-transparent\\_transparent-reset.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\layout\\version-transparent\\_transparent-right-sidebar.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\version-transparent\\_transparent-right-sidebar.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\scss\\main.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\pages\\_ecom-product-detail.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_ecom-product-detail.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\pages\\_ecom-product-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_ecom-product-grid.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\pages\\_ecom-product-list.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_ecom-product-list.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\pages\\_homepage.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_homepage.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\pages\\_page-analytics.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_page-analytics.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\pages\\_page-auth.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_page-auth.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\pages\\_page-error.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_page-error.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\pages\\_page-order.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_page-order.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\pages\\_page-pricing.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_page-pricing.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\pages\\_page-review.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_page-review.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\pages\\_page-timeline.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_page-timeline.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\scss\\pages\\_pages.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_pages.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\vendor\\animate\\animate.min.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\aos\\css\\aos.css",
+      "PackagePath": "staticwebassets\\vendor\\aos\\css\\aos.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\aos\\css\\aos.min.css",
+      "PackagePath": "staticwebassets\\vendor\\aos\\css\\aos.min.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\aos\\js\\aos.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\js\\aos.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\aos\\js\\aos.min.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\js\\aos.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-datetimepicker\\css\\bootstrap-datetimepicker.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-datetimepicker\\css\\bootstrap-datetimepicker.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-datetimepicker\\css\\bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-datetimepicker\\css\\bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-datetimepicker\\js\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-datetimepicker\\js\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-datetimepicker\\js\\moment.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-datetimepicker\\js\\moment.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-material-datetimepicker\\css\\bootstrap-material-datetimepicker.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-material-datetimepicker\\css\\bootstrap-material-datetimepicker.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-material-datetimepicker\\js\\bootstrap-material-datetimepicker.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-material-datetimepicker\\js\\bootstrap-material-datetimepicker.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-multiselect\\css\\bootstrap-multiselect.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-multiselect\\css\\bootstrap-multiselect.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-multiselect\\js\\bootstrap-multiselect.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-multiselect\\js\\bootstrap-multiselect.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-select\\dist\\css\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-select\\dist\\css\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-select\\dist\\js\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-select\\dist\\js\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-tagsinput\\css\\bootstrap-tagsinput.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-tagsinput\\css\\bootstrap-tagsinput.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-tagsinput\\js\\bootstrap-tagsinput.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-tagsinput\\js\\bootstrap-tagsinput.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-touchspin\\css\\jquery.bootstrap-touchspin.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-touchspin\\css\\jquery.bootstrap-touchspin.min.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-touchspin\\js\\jquery.bootstrap-touchspin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-touchspin\\js\\jquery.bootstrap-touchspin.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_alert.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_badge.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_card.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_close.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_code.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_forms.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_functions.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_grid.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_images.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_media.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_modal.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_nav.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_popover.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_print.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_progress.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_root.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_rtl.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_rtl.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_tables.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_type.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\_variables.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap-grid.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap-rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap-rtl.css.map"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap-rtl.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap-rtl.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap.css.map"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-v4-rtl\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap4-notify\\bootstrap-notify.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap4-notify\\bootstrap-notify.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\bootstrap-grid.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\bootstrap.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\bootstrap.css.map"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\clockpicker\\css\\bootstrap-clockpicker.min.css",
+      "PackagePath": "staticwebassets\\vendor\\clockpicker\\css\\bootstrap-clockpicker.min.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\clockpicker\\js\\bootstrap-clockpicker.min.js",
+      "PackagePath": "staticwebassets\\vendor\\clockpicker\\js\\bootstrap-clockpicker.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\datatables\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\vendor\\datatables\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\datatables\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\vendor\\datatables\\images\\favicon.ico"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\datatables\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\vendor\\datatables\\images\\sort_asc.png"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\datatables\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\vendor\\datatables\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\datatables\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\vendor\\datatables\\images\\sort_both.png"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\datatables\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\vendor\\datatables\\images\\sort_desc.png"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\datatables\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\vendor\\datatables\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\datatables\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\vendor\\datatables\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\deznav\\deznav.css",
+      "PackagePath": "staticwebassets\\vendor\\deznav\\deznav.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\deznav\\deznav.css.map",
+      "PackagePath": "staticwebassets\\vendor\\deznav\\deznav.css.map"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\deznav\\deznav.min.js",
+      "PackagePath": "staticwebassets\\vendor\\deznav\\deznav.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\dropzone\\.gitignore",
+      "PackagePath": "staticwebassets\\vendor\\dropzone\\.gitignore"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\dropzone\\.tagconfig",
+      "PackagePath": "staticwebassets\\vendor\\dropzone\\.tagconfig"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\dropzone\\CONTRIBUTING.md",
+      "PackagePath": "staticwebassets\\vendor\\dropzone\\CONTRIBUTING.md"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\dropzone\\LICENSE",
+      "PackagePath": "staticwebassets\\vendor\\dropzone"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\dropzone\\README.md",
+      "PackagePath": "staticwebassets\\vendor\\dropzone\\README.md"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\dropzone\\bower.json",
+      "PackagePath": "staticwebassets\\vendor\\dropzone\\bower.json"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\dropzone\\component.json",
+      "PackagePath": "staticwebassets\\vendor\\dropzone\\component.json"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\dropzone\\composer.json",
+      "PackagePath": "staticwebassets\\vendor\\dropzone\\composer.json"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\dropzone\\dist\\basic.css",
+      "PackagePath": "staticwebassets\\vendor\\dropzone\\dist\\basic.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\dropzone\\dist\\dropzone-amd-module.js",
+      "PackagePath": "staticwebassets\\vendor\\dropzone\\dist\\dropzone-amd-module.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\dropzone\\dist\\dropzone.css",
+      "PackagePath": "staticwebassets\\vendor\\dropzone\\dist\\dropzone.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\dropzone\\dist\\dropzone.js",
+      "PackagePath": "staticwebassets\\vendor\\dropzone\\dist\\dropzone.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\dropzone\\dist\\dropzone.js.map",
+      "PackagePath": "staticwebassets\\vendor\\dropzone\\dist\\dropzone.js.map"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\dropzone\\dist\\min\\basic.min.css",
+      "PackagePath": "staticwebassets\\vendor\\dropzone\\dist\\min\\basic.min.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\dropzone\\dist\\min\\dropzone-amd-module.min.js",
+      "PackagePath": "staticwebassets\\vendor\\dropzone\\dist\\min\\dropzone-amd-module.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\dropzone\\dist\\min\\dropzone.min.css",
+      "PackagePath": "staticwebassets\\vendor\\dropzone\\dist\\min\\dropzone.min.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\dropzone\\dist\\min\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\vendor\\dropzone\\dist\\min\\dropzone.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\dropzone\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\dropzone\\index.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\dropzone\\package.json",
+      "PackagePath": "staticwebassets\\vendor\\dropzone\\package.json"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\fullscreen-lightbox-gallery\\.gitignore",
+      "PackagePath": "staticwebassets\\vendor\\fullscreen-lightbox-gallery\\.gitignore"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\fullscreen-lightbox-gallery\\lightboxed\\controls.png",
+      "PackagePath": "staticwebassets\\vendor\\fullscreen-lightbox-gallery\\lightboxed\\controls.png"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\fullscreen-lightbox-gallery\\lightboxed\\lightboxed.css",
+      "PackagePath": "staticwebassets\\vendor\\fullscreen-lightbox-gallery\\lightboxed\\lightboxed.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\fullscreen-lightbox-gallery\\lightboxed\\lightboxed.js",
+      "PackagePath": "staticwebassets\\vendor\\fullscreen-lightbox-gallery\\lightboxed\\lightboxed.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\global\\global.min.js",
+      "PackagePath": "staticwebassets\\vendor\\global\\global.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\highlight.pack.min.js",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\highlight.pack.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\agate.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\agate.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\androidstudio.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\androidstudio.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\arduino-light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\arduino-light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\arta.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\arta.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\ascetic.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\ascetic.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-cave-dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-cave-dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-cave-light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-cave-light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-cave.dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-cave.dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-cave.light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-cave.light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-dune-dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-dune-dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-dune-light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-dune-light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-dune.dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-dune.dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-dune.light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-dune.light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-estuary-dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-estuary-dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-estuary-light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-estuary-light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-estuary.dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-estuary.dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-estuary.light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-estuary.light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-forest-dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-forest-dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-forest-light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-forest-light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-forest.dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-forest.dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-forest.light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-forest.light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-heath-dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-heath-dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-heath-light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-heath-light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-heath.dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-heath.dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-heath.light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-heath.light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-lakeside-dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-lakeside-dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-lakeside-light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-lakeside-light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-lakeside.dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-lakeside.dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-lakeside.light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-lakeside.light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-plateau-dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-plateau-dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-plateau-light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-plateau-light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-plateau.dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-plateau.dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-plateau.light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-plateau.light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-savanna-dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-savanna-dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-savanna-light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-savanna-light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-savanna.dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-savanna.dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-savanna.light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-savanna.light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-seaside-dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-seaside-dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-seaside-light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-seaside-light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-seaside.dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-seaside.dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-seaside.light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-seaside.light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-sulphurpool-dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-sulphurpool-dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-sulphurpool-light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-sulphurpool-light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-sulphurpool.dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-sulphurpool.dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atelier-sulphurpool.light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atelier-sulphurpool.light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atom-one-dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atom-one-dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\atom-one-light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\atom-one-light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\brown-paper.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\brown-paper.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\brown_paper.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\brown_paper.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\codepen-embed.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\codepen-embed.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\color-brewer.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\color-brewer.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\darcula.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\darcula.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\darkula.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\darkula.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\default.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\default.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\docco.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\docco.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\dracula.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\dracula.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\far.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\far.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\foundation.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\foundation.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\github-gist.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\github-gist.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\github.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\github.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\googlecode.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\googlecode.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\grayscale.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\grayscale.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\gruvbox-dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\gruvbox-dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\gruvbox-light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\gruvbox-light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\hopscotch.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\hopscotch.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\hybrid.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\hybrid.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\idea.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\idea.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\ir-black.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\ir-black.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\ir_black.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\ir_black.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\kimbie.dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\kimbie.dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\kimbie.light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\kimbie.light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\magula.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\magula.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\mono-blue.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\mono-blue.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\monokai-sublime.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\monokai-sublime.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\monokai.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\monokai.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\monokai_sublime.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\monokai_sublime.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\obsidian.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\obsidian.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\ocean.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\ocean.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\paraiso-dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\paraiso-dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\paraiso-light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\paraiso-light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\paraiso.dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\paraiso.dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\paraiso.light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\paraiso.light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\pojoaque.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\pojoaque.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\purebasic.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\purebasic.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\qtcreator_dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\qtcreator_dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\qtcreator_light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\qtcreator_light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\railscasts.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\railscasts.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\rainbow.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\rainbow.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\routeros.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\routeros.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\school-book.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\school-book.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\school_book.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\school_book.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\solarized-dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\solarized-dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\solarized-light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\solarized-light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\solarized_dark.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\solarized_dark.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\solarized_light.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\solarized_light.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\sunburst.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\sunburst.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\tomorrow-night-blue.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\tomorrow-night-blue.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\tomorrow-night-bright.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\tomorrow-night-bright.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\tomorrow-night-eighties.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\tomorrow-night-eighties.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\tomorrow-night.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\tomorrow-night.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\tomorrow.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\tomorrow.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\vs.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\vs.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\vs2015.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\vs2015.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\xcode.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\xcode.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\xt256.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\xt256.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\highlightjs\\styles\\zenburn.css",
+      "PackagePath": "staticwebassets\\vendor\\highlightjs\\styles\\zenburn.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\jquery-asColorPicker\\css\\asColorPicker.min.css",
+      "PackagePath": "staticwebassets\\vendor\\jquery-asColorPicker\\css\\asColorPicker.min.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\jquery-asColorPicker\\images\\alpha.png",
+      "PackagePath": "staticwebassets\\vendor\\jquery-asColorPicker\\images\\alpha.png"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\jquery-asColorPicker\\images\\hue.png",
+      "PackagePath": "staticwebassets\\vendor\\jquery-asColorPicker\\images\\hue.png"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\jquery-asColorPicker\\images\\saturation.png",
+      "PackagePath": "staticwebassets\\vendor\\jquery-asColorPicker\\images\\saturation.png"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\jquery-asColorPicker\\images\\transparent.png",
+      "PackagePath": "staticwebassets\\vendor\\jquery-asColorPicker\\images\\transparent.png"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\jquery-asColorPicker\\js\\jquery-asColorPicker.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery-asColorPicker\\js\\jquery-asColorPicker.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\jquery-asColor\\jquery-asColor.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery-asColor\\jquery-asColor.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\jquery-asGradient\\jquery-asGradient.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery-asGradient\\jquery-asGradient.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\jquery-sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery-sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\jquery-steps\\build\\jquery.steps.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery-steps\\build\\jquery.steps.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\jquery-steps\\css\\jquery.steps.css",
+      "PackagePath": "staticwebassets\\vendor\\jquery-steps\\css\\jquery.steps.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\jquery-validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery-validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\jquery.counterup\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery.counterup\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\jqueryui\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\jqueryui\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jqueryui\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\jqvmap\\css\\jqvmap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\jqvmap\\css\\jqvmap.min.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\jqvmap\\js\\jquery.vmap.australia.js",
+      "PackagePath": "staticwebassets\\vendor\\jqvmap\\js\\jquery.vmap.australia.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\jqvmap\\js\\jquery.vmap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jqvmap\\js\\jquery.vmap.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\jqvmap\\js\\jquery.vmap.usa.js",
+      "PackagePath": "staticwebassets\\vendor\\jqvmap\\js\\jquery.vmap.usa.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\jqvmap\\js\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\vendor\\jqvmap\\js\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\metismenu\\css\\metisMenu.min.css",
+      "PackagePath": "staticwebassets\\vendor\\metismenu\\css\\metisMenu.min.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\metismenu\\js\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\vendor\\metismenu\\js\\metisMenu.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\morris\\morris.min.js",
+      "PackagePath": "staticwebassets\\vendor\\morris\\morris.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\nouislider\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\vendor\\nouislider\\nouislider.min.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\nouislider\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\vendor\\nouislider\\nouislider.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\owl-carousel\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\vendor\\owl-carousel\\owl.carousel.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\owl-carousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\vendor\\owl-carousel\\owl.carousel.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\peity\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\vendor\\peity\\jquery.peity.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\perfect-scrollbar\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\vendor\\perfect-scrollbar\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\perfect-scrollbar\\js\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\vendor\\perfect-scrollbar\\js\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\picker.date.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\picker.date.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\picker.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\picker.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\picker.time.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\picker.time.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\themes\\classic.css",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\themes\\classic.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\themes\\classic.date.css",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\themes\\classic.date.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\themes\\classic.time.css",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\themes\\classic.time.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\themes\\default.css",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\themes\\default.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\themes\\default.date.css",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\themes\\default.date.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\themes\\default.time.css",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\themes\\default.time.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\themes\\rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\themes\\rtl.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\ar.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\ar.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\bg_BG.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\bg_BG.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\bs_BA.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\bs_BA.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\ca_ES.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\ca_ES.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\cs_CZ.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\cs_CZ.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\da_DK.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\da_DK.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\de_DE.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\de_DE.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\el_GR.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\el_GR.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\es_ES.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\es_ES.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\et_EE.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\et_EE.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\eu_ES.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\eu_ES.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\fa_IR.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\fa_IR.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\fi_FI.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\fi_FI.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\fr_FR.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\fr_FR.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\ge_GEO.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\ge_GEO.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\gl_ES.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\gl_ES.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\he_IL.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\he_IL.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\hi_IN.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\hi_IN.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\hr_HR.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\hr_HR.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\hu_HU.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\hu_HU.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\id_ID.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\id_ID.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\is_IS.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\is_IS.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\it_IT.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\it_IT.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\ja_JP.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\ja_JP.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\km_KH.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\km_KH.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\ko_KR.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\ko_KR.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\lt_LT.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\lt_LT.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\lv_LV.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\lv_LV.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\nb_NO.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\nb_NO.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\ne_NP.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\ne_NP.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\nl_NL.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\nl_NL.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\no_NO.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\no_NO.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\pl_PL.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\pl_PL.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\pt_BR.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\pt_BR.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\pt_PT.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\pt_PT.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\ro_RO.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\ro_RO.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\ru_RU.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\ru_RU.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\sk_SK.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\sk_SK.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\sl_SI.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\sl_SI.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\sr_RS_cy.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\sr_RS_cy.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\sr_RS_lt.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\sr_RS_lt.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\sv_SE.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\sv_SE.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\th_TH.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\th_TH.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\tr_TR.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\tr_TR.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\uk_UA.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\uk_UA.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\vi_VN.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\vi_VN.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\zh_CN.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\zh_CN.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\pickadate\\translations\\zh_TW.js",
+      "PackagePath": "staticwebassets\\vendor\\pickadate\\translations\\zh_TW.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\repeatable-fields-add-remove\\index.html",
+      "PackagePath": "staticwebassets\\vendor\\repeatable-fields-add-remove\\index.html"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\repeatable-fields-add-remove\\jquery.repeater.min.js",
+      "PackagePath": "staticwebassets\\vendor\\repeatable-fields-add-remove\\jquery.repeater.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\vendor\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\select2\\js\\select2.full.min.js",
+      "PackagePath": "staticwebassets\\vendor\\select2\\js\\select2.full.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\summernote\\font\\summernote.eot",
+      "PackagePath": "staticwebassets\\vendor\\summernote\\font\\summernote.eot"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\summernote\\font\\summernote.ttf",
+      "PackagePath": "staticwebassets\\vendor\\summernote\\font\\summernote.ttf"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\summernote\\font\\summernote.woff",
+      "PackagePath": "staticwebassets\\vendor\\summernote\\font\\summernote.woff"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\summernote\\js\\summernote.min.js",
+      "PackagePath": "staticwebassets\\vendor\\summernote\\js\\summernote.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\summernote\\summernote.css",
+      "PackagePath": "staticwebassets\\vendor\\summernote\\summernote.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\sweetalert2\\dist\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\vendor\\sweetalert2\\dist\\sweetalert2.min.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\sweetalert2\\dist\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\vendor\\sweetalert2\\dist\\sweetalert2.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\toastr\\css\\toastr.min.css",
+      "PackagePath": "staticwebassets\\vendor\\toastr\\css\\toastr.min.css"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\toastr\\js\\toastr.min.js",
+      "PackagePath": "staticwebassets\\vendor\\toastr\\js\\toastr.min.js"
+    },
+    {
+      "Id": "H:\\Book E-commerce\\wwwroot\\vendor\\waypoints\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\vendor\\waypoints\\jquery.waypoints.min.js"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BooksEccommerce.Microsoft.AspNetCore.StaticWebAssets.props",

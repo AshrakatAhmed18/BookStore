@@ -21,6 +21,7 @@ namespace BooksEccommerce.Models
        public DbSet<User> clients { get; set;}
 
        public DbSet<Book_User> booksUsers { get;set;}
+       public DbSet<Category> categories { get;set;}
 
     }
 }

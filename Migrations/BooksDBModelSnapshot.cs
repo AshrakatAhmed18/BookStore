@@ -17,7 +17,7 @@ namespace BooksEccommerce.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "7.0.4")
+                .HasAnnotation("ProductVersion", "7.0.5")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -30,22 +30,24 @@ namespace BooksEccommerce.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
 
-                    b.Property<string>("category")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("categoryId")
+                        .HasColumnType("int");
 
                     b.Property<string>("description")
-                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("image")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("name")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<double>("price")
                         .HasColumnType("float");
 
                     b.HasKey("id");
+
+                    b.HasIndex("categoryId");
 
                     b.ToTable("Books");
                 });
@@ -62,7 +64,6 @@ namespace BooksEccommerce.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("userId")
-                        .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
                     b.HasKey("borrowProcess");
@@ -72,6 +73,22 @@ namespace BooksEccommerce.Migrations
                     b.HasIndex("userId");
 
                     b.ToTable("booksUsers");
+                });
+
+            modelBuilder.Entity("BooksEccommerce.Models.Category", b =>
+                {
+                    b.Property<int>("id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("id"));
+
+                    b.Property<string>("name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("id");
+
+                    b.ToTable("categories");
                 });
 
             modelBuilder.Entity("BooksEccommerce.Models.User", b =>
@@ -127,15 +144,12 @@ namespace BooksEccommerce.Migrations
                         .HasColumnType("nvarchar(256)");
 
                     b.Property<string>("address")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("city")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("country")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -284,6 +298,17 @@ namespace BooksEccommerce.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("BooksEccommerce.Models.Book", b =>
+                {
+                    b.HasOne("BooksEccommerce.Models.Category", "category")
+                        .WithMany("books")
+                        .HasForeignKey("categoryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("category");
+                });
+
             modelBuilder.Entity("BooksEccommerce.Models.Book_User", b =>
                 {
                     b.HasOne("BooksEccommerce.Models.Book", "book")
@@ -294,9 +319,7 @@ namespace BooksEccommerce.Migrations
 
                     b.HasOne("BooksEccommerce.Models.User", "user")
                         .WithMany("bookUser")
-                        .HasForeignKey("userId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("userId");
 
                     b.Navigation("book");
 
@@ -357,6 +380,11 @@ namespace BooksEccommerce.Migrations
             modelBuilder.Entity("BooksEccommerce.Models.Book", b =>
                 {
                     b.Navigation("bookUser");
+                });
+
+            modelBuilder.Entity("BooksEccommerce.Models.Category", b =>
+                {
+                    b.Navigation("books");
                 });
 
             modelBuilder.Entity("BooksEccommerce.Models.User", b =>

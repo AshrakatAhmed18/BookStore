@@ -1,0 +1,103 @@
+﻿@inject BooksEccommerce.Repo.CategoryRepo.ICategoryRepo categoryRepo
+
+@model ProductVM
+@{
+    ViewData["Title"] = "New";
+    Layout = "~/Views/Shared/_newadminlayout.cshtml";
+    var categories = categoryRepo.GetAll();
+}
+<!-- row -->
+<div class="container-fluid">
+    <div class="form-head d-flex mb-3 align-items-start">
+        <div class="mr-auto d-none d-lg-block">
+            <h2 class="text-black font-w600 mb-0">Add Book</h2>
+        </div>
+
+
+    </div>
+
+    <!-- row -->
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+
+                <div class="card-body">
+                    <div class="basic-form">
+                        <form class="repeater row" asp-controller="Product" asp-action="New" enctype="multipart/form-data" method="post">
+                            <div class="form-group  col-md-6 ">
+                                <label for="imageFile">Image</label>
+                                <div class="input-group mb-3">
+
+                                    <div class="custom-file">
+
+                                        <input name="imageFile" asp-for="imageFile" type="file" class="custom-file-input file">
+                                        <label class="custom-file-label">Choose Image</label>
+                                        <span asp-validation-for="imageFile" class="text-danger"></span>
+                                    </div>
+
+
+                                </div>
+                            </div>
+                            <div class="form-group col-md-6">
+                                <label asp-for="name">Name</label>
+                               
+                                <input class="form-control input-default " type="text" asp-for="name">
+                                <span asp-validation-for="name" class="text-danger"></span>
+                            </div>
+                            <div class="form-group col-md-6">
+                                <label asp-for="description">Description</label>
+                                
+                                <textarea class="form-control" asp-for="description"></textarea>
+                                <span asp-validation-for="description" class="text-danger"></span>
+                            </div>
+                            <div class="form-group col-md-6 ">
+                                <label asp-for="categoryId">Categories</label>
+                                <select  class="form-control w-100 form-control" asp-for=categoryId id="sel2">
+                                    @foreach (var item in categories)
+                                    {
+                                        <option value="@item.id">@item.name</option>
+                                    }
+
+                                </select>
+                                <span asp-validation-for="categoryId" class="text-danger"></span>
+
+                            </div>
+                            <div class="form-group col-md-6">
+                                <label asp-for="price">Price</label>
+
+                                <input class="form-control input-default " type="number" asp-for="price">
+                                <span asp-validation-for="price" class="text-danger"></span>
+                            </div>
+
+
+                            <div class="form-group text-center col-12">
+                                <button type="submit" class="btn h-auto btn-primary">Save </button>
+                                <a asp-controller="Proudct" asp-action="Index" class="btn h-auto btn-primary">Back </a>
+
+                            </div>
+
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+@section Scripts{
+
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+}
+
+
+
+
+

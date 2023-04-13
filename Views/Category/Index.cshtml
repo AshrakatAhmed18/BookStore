@@ -1,0 +1,71 @@
+﻿@model List<CategoryVM>
+@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_newadminlayout.cshtml";
+}
+
+
+
+<div class="container-fluid">
+	<div class="form-head d-flex mb-3 align-items-start">
+		<div class="mr-auto d-none d-lg-block">
+			<h2 class="text-black font-w600 mb-0">Categories</h2>
+		</div>
+
+
+	</div>
+
+
+	<!-- row -->
+	<div class="row">
+		<div class="col-lg-12">
+			<div class="card">
+				<div class="card-body">
+					<div class="w-100 d-flex justify-content-between align-items-center">
+						<a class="btn btn-primary" asp-controller="Category" asp-action="New">Create New</a>
+
+
+
+					</div>
+					<div class="table-responsive">
+						<table class="table table-sm mb-0">
+							<thead>
+								<tr>
+									
+									<th scope="col">Name</th>
+									<th scope="col">Action</th>
+
+
+
+								</tr>
+							</thead>
+							<tbody>
+								@foreach (CategoryVM item in Model)
+								{
+									<tr>
+
+									
+
+										<td>@item.name</td>
+										
+										<td>
+											<div class="d-flex">
+
+												<a asp-action="Edit" asp-controller="Category" asp-route-id="@item.id" class="btn btn-primary shadow  sharp">Edit </a>|
+												<a asp-action="Delete" asp-controller="Category" asp-route-id="@item.id" class="btn btn-danger shadow  sharp">Delete</a>
+											</div>
+										</td>
+
+
+									</tr>
+								}
+
+							</tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</div>

@@ -83,7 +83,11 @@ namespace BooksEccommerce.Controllers
                 {
                     //found username
                     await signInManager.PasswordSignInAsync(userModel, loginViewModel.password, true, false);
-                    return RedirectToAction("About" , "Home");
+                    if (await userManager.IsInRoleAsync(userModel, "Admin"))
+                    {
+                        return RedirectToAction("Index", "Product");
+                    }
+                    return RedirectToAction("Index" , "Home");
                 }
                 else if (loginViewModel.email == "admin@admin.com" && loginViewModel.password == "jtrAZ525987@35")
                 {
@@ -108,7 +112,8 @@ namespace BooksEccommerce.Controllers
                         List<Claim> claims = new List<Claim>();
                         claims.Add(new Claim("books shop", "Admin"));
                         await signInManager.SignInWithClaimsAsync(client, false, claims);
-                        return RedirectToAction("Index", "Home");
+                        return RedirectToAction("Index", "Product");
+
                     }
                     else
                     {
