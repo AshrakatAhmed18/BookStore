@@ -23,7 +23,6 @@ namespace BooksEccommerce.Controllers
             return View();
         }
 
-        [Authorize(Roles = "Admin , Client")]
         public IActionResult About()
         {
 			List<ProductVM> books = productRepo.GetAll();
