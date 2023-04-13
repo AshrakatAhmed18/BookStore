@@ -1,0 +1,134 @@
+﻿@model List<CartVM>
+@{
+    ViewData["Title"] = "Cart";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    double total = Model.Select(x => x.Price * x.qyantity).Sum();
+}
+
+<!-- start cart -->
+<div class="container">
+    <div class="cart">
+
+        <h1 class="text-center font-weight-bold text-capitalize">your cart</h1>
+        <div class="row py-5 justify-content-center">
+            <div class="col-lg-8">
+                <div class="left-content">
+
+                    <ul id="products" class="d-block  my-3 ">
+                        <!-- products -->
+                        @foreach (var item in Model)
+                        {
+                            <li id="c_@item.borrowProcess" class="p-3 rounded-lg mb-2 bg-light">
+                                <div class="d-flex align-items-start">
+                                    <div class="img">
+                                        <img src="@item.bookImg" alt="">
+                                    </div>
+                                    &nbsp;
+                                    <div class="flex-fill">
+                                        <div class="d-flex font-bebas  justify-content-between align-items-center">
+                                            <h3>
+                                                <a class="text-dark" href="single-product.html">@item.bookName</a>
+
+                                            </h3>
+                                            <span data-productid="@item.borrowProcess" class="pointer remove-from-cart text-danger"><i class="fa fa-trash" aria-hidden="true"></i></span>
+                                        </div>
+                                        <div class="d-flex font-bebas justify-content-start my-2 align-items-center">
+
+                                            <span class="text-dark">@item.Price</span>LE
+                                        </div>
+                                        <input class="product-spinner" type="number" data-price="@item.Price" data-productid="@item.bookId" value="@item.qyantity" min="1" max="500">
+
+                                        <div class="d-flex font-bebas  justify-content-between my-2 align-items-center">
+
+                                            <span> <span id="total-price_@item.bookId" title="total" class="text-success font-bebas strong lead subtotal">@(item.Price * item.qyantity)</span>LE</span>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </li>
+
+                        }
+
+
+                    </ul>
+                </div>
+            </div>
+            <div id="checkout-card" class="col-lg-4">
+                <div class="right-content position-sticky" style="top: 100px;">
+                    <div class="card text-capitalize">
+                        <div class="card-header">
+                            order summary
+                        </div>
+                       
+                        <div class="card-footer font-bebas">
+                            total <span><strong id="total-price-checkout">@total</strong><strong>LE</strong></span>
+                        </div>
+                    </div>
+                    <a href="shiping.html" class="btn font-bebas btn-success mt-2 w-100">
+                        check
+                        out
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+@section Scripts{
+    <!-- cart management -->
+    <script src="~/assets/js/input-spinner.js"></script>
+    <script>
+        $("input[type='number']").inputSpinner({
+            template: `
+                                        <div class="input-group" style="width: 170px">
+                                            <button style="min-width: 20px" class="rounded-0 btn btn-decrement btn-outline-dark btn-minus" type="button">-</button>
+                                        <input type="text" inputmode="decimal" style="text-align: center" class="form-control"/>
+                                        <button style="min-width: 20px" class="rounded-0 btn btn-increment btn-outline-dark btn-plus" type="button">+</button>
+                                        </div>
+                                    `
+        });
+
+        $('.remove-from-cart').on('click', (e) => {
+           
+            $.ajax({
+                url: '/Cart/Delete?id=' + parseInt(e.currentTarget.dataset.productid),
+                type: 'POST',
+                success: function (result) {
+                    $('#c_' + parseInt(e.currentTarget.dataset.productid)).remove();
+                },
+               
+            });
+        });
+        $('.product-spinner').on('change', (e) => {
+            try {
+               
+             
+                $.ajax({
+                    url: '/Cart/AddToCart?id=' + e.target.dataset.productid + '&quantity=' + e.target.value,
+                    type: 'POST',
+                    success: function (result) {
+                        const newPrice = e.target.dataset.price * e.target.value;
+                        $('#total-price_' + e.target.dataset.productid).html(newPrice);
+                        var total = 0;
+                        $('.subtotal').each(function () {
+                            var subtotal = parseFloat($(this).text());
+                            if (!isNaN(subtotal)) {
+                                total += subtotal;
+                            }
+                        });
+                        $("#total-price-checkout").html(total);
+                    },
+                    error: function (xhr, status, error) {
+                        // Handle error
+                    }
+                });
+
+            } catch (e) {
+                console.error(e);
+            }
+
+        })
+                        
+    </script>
+}

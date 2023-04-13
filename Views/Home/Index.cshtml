@@ -1,8 +1,161 @@
-﻿@{
+﻿@model HomeDataVM
+@{
     ViewData["Title"] = "Home Page";
+    Layout = "_Layout";
+
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<!-- ***** Main Banner Area Start ***** -->
+<div class="main-banner index" id="top">
+    <div>
+        <section class="container py-3 text-center">
+            <h4 class="m-0 font-bebas  text-capitalize">Free shipping on orders over 1000 LE</h4>
+        </section>
+        <!-- ***** Banner Area Start ***** -->
+        <div class="page-heading-">
+            <div style="background-image: url('/assets/images/imgs/header.jpg');"
+                 class="page-heading about-page-heading m-0" id="top">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-7">
+                            <div class="inner-content text-left">
+                                <h2 class="text-black">Welcome to Braga</h2>
+                                <span>
+                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odio, perspiciatis
+                                    harum officiis temporibus minima asperiores corrupti omnis mollitia suscipit
+                                    eaque sapiente provident quaerat repellat facere, nulla, qui culpa. Ipsa,
+                                    nobis.
+                                </span>
+
+                            
+
+
+                            </div>
+                        </div>
+                        <div class="col-lg-5">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ***** Banner Area End ***** -->
+        <!-- Catigories Area Start -->
+        <section>
+            <div class="container">
+                <div class="row my-5">
+                    <div class="col-lg-12">
+                        <div class="section-heading text-center">
+                            <h2>Categories</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="right-content">
+                            <div class="row">
+                                @foreach (var item in Model.categories)
+                                {
+                                    <div class="col-lg-3 col-6 col-md-4 mb-4">
+                                       
+
+                                          
+
+
+                                                <a href="products.html" class="hover-content">
+                                                    <div class="inner">
+                                                        <h4>@item.name</h4>
+                                                    </div>
+                                                </a>
+                                               
+                                            </div>
+                                     
+                                    
+                                }                               
+                                
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+               
+        </section>
+        <!-- ***** Banner Area Start ***** -->
+        <div class="page-heading-- py-5">
+            <div style="background-image: url('/assets/images/imgs/header.jpg');"
+                 class="second-page-heading   about-page-heading m-0" id="top">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-7">
+                            <div class="inner-content text-left">
+                                <h2 class="text-black">Welcome to Braga</h2>
+                                <span>
+                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odio, perspiciatis
+                                    harum officiis temporibus minima asperiores corrupti omnis mollitia suscipit
+                                    eaque sapiente provident quaerat repellat facere, nulla, qui culpa. Ipsa,
+                                    nobis.
+                                </span>
+                            </div>
+                        </div>
+                        <div class="col-lg-5">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ***** Banner Area End ***** -->
+    </div>
 </div>
+<!-- ***** Main Banner Area End ***** -->
+<!-- ***** carousel Area Starts ***** -->
+<section class="section py-5" id="women">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="women-item-carousel">
+                    <div class="owl-women-item owl-carousel">
+
+            @foreach (var item in Model.books)
+            {
+
+                            <!-- put product id here to check it into cart - localstorage -->
+                            <a asp-action="ProductDetails" asp-route-id="@item.id" class="item product-card" id="1111">
+                                <div class="thumb card ">
+                                    <div class="shadow-inside-div"></div>
+                                    <div class="card-img">
+                                        <img src="@item.image" alt="">
+                                    </div>
+                                    <div class="down-content text-light">
+                                        <h4 class="text-light">@item.name</h4>
+                                        <span class="text-light">@item.price egp</span>
+
+                                    </div>
+                                </div>
+
+                            </a>
+
+
+
+                      
+            }
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- ***** Women Area Ends ***** -->
+@section Scripts{
+        <script>
+            $('#clothingCollapse').on('show.bs.collapse', function () {
+                $('#minusIcon').show();
+                $('#plusIcon').hide();
+            });
+        $('#clothingCollapse').on('hide.bs.collapse', function () {
+            $('#minusIcon').hide();
+            $('#plusIcon').show();
+        });
+    </script>
+}

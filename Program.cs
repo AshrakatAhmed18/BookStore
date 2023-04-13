@@ -1,5 +1,6 @@
 using BooksEccommerce.Mapper;
 using BooksEccommerce.Models;
+using BooksEccommerce.Repo.CartRepo;
 using BooksEccommerce.Repo.CategoryRepo;
 using BooksEccommerce.Repo.ProductRepos;
 using Microsoft.AspNetCore.Identity;
@@ -19,6 +20,7 @@ namespace BooksEccommerce
             builder.Services.AddIdentity<User, IdentityRole>().AddEntityFrameworkStores<BooksDB>();
             builder.Services.AddScoped<IProductRepo, ProductRepo>();
             builder.Services.AddScoped<ICategoryRepo, CategoryRepo>();
+            builder.Services.AddScoped<ICartRepo, CartRepo>();
 			builder.Services.AddAutoMapper(x => x.AddProfile(new DomainProfile()));
 			builder.Services.AddDbContext<BooksDB>(options =>
             {

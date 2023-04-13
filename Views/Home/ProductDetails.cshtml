@@ -1,0 +1,81 @@
+﻿@model ProductVM
+@{
+    ViewData["Title"] = "ProductDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- ***** Product Area Starts ***** -->
+<section class="section" id="product">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="left-images">
+                    <div class="row">
+                       @* <div class="col-lg-2">
+                            <div id="small-imgs" class="d-flex  flex-wrap justify-content-center">
+                                <div class="col-md-12 col-4 mb-3">
+                                    <img class="" src="assets/images/imgs/696A2865.jpg" alt="">
+                                </div>
+                                <div class="col-md-12 col-4 mb-3">
+                                    <img src="assets/images/imgs/696A2881.jpg" alt="">
+                                </div>
+                                <div class="col-md-12 col-4 mb-3">
+                                    <img src="assets/images/imgs/696A2867 copy.jpg" alt="">
+                                </div>
+                            </div>
+                        </div>*@
+                        <div class="col-lg-10">
+                            <div class="">
+                                <img class="zoomple" id="NZoomImg" data-NZoomscale="3" src="@Model.image" alt="">
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <!-- add product id here  -->
+            <div class="col-lg-4 position-relative product-card" id="FFDFFGDFddfg77">
+                <div style="position: sticky;top: 80px;" class="right-content">
+                    <h2 class="font-bebas">@Model.name</h2>
+                    <span class="price font-bebas">@Model.price LE </span>
+                    <p>
+                       @Model.description
+                    </p>
+                 
+                    <div class="">
+                        <!-- add product id here  -->
+                        <a id="add-to-cart-btn" onclick="addToCart(@Model.id)" class="pointer btn btn-block btn-success font-bebas border-0 font-weight-bold w-100 text-center">
+                            Add
+                            To Cart
+                        </a>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+</section>
+<!-- ***** Product Area Ends ***** -->
+@section Scripts{
+  
+    <!-- single product management -->
+    <script src="~/assets/js/single-product.js"></script>
+    <script src="~/assets/js/jquery.zoom.min.js"></script>
+    <script>
+        function addToCart(bookId) {
+            $.ajax({
+                url: '/Cart/AddToCart?id=' + bookId,
+                type: 'POST',
+                success: function (result) {
+                    consol.log(result)
+                },
+                error: function (xhr, status, error) {
+                    // Handle error
+                }
+            });
+        }
+    </script>
+
+}

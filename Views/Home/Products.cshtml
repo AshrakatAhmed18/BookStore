@@ -1,0 +1,117 @@
+﻿@model HomeDataVM
+@{
+    ViewData["Title"] = "Products";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- ***** Products Area Starts ***** -->
+<section class="section" id="products">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section-heading  d-flex justify-content-end align-items-center">
+                    <label class="mx-2 font-bebas">sort by</label>
+                    <div class="dropdown" class="mx-2">
+                        <button class="btn btn-light dropdown-toggle" type="button" id="dropdownMenuButton"
+                                data-toggle="dropdown" aria-expanded="false">
+                            Recently listed
+                        </button>
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                            <a class="dropdown-item" href="#">Price : High to Low</a>
+                            <a class="dropdown-item" href="#">Price : Low to High</a>
+                            <a class="dropdown-item" href="#">Most Favorites</a>
+                            <a class="dropdown-item" href="#">New Arrivals</a>
+                        </div>
+                    </div>
+                    <div id="view-controls" class="btn-group ml-2" role="group" aria-label="Basic example">
+                        <button data-view="grid" type="button" class="btn btn-light active"><i class="fas fa-th-large"></i></button>
+                        <button data-view="cols" type="button" class="btn btn-light"> <i class="fas fa-th"></i></button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-2 ">
+                <div class="text-left">
+                    <h3 class="font-weight-normal mb-3">Category</h3>
+                    <ul class="w-100 cats">
+                        @foreach (var item in Model.categories)
+                        {
+                            <li class="py-1"><a class="text-dark d-block" asp-action="Products" asp-route-id="@item.id">@item.name</a></li>
+
+                        }
+                       
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-10">
+                <div id="products-view" class="row  px-5">
+                    <!-- product card start -->
+                    @foreach (var item in Model.books)
+                    {
+                        <div class="col-md-4 col-lg-4 product-card-view">
+                            <!-- put product id here to check it into cart - localstorage -->
+                            <div id="48784551" class="item product-card">
+                                <div class="thumb">
+                                    <img src="@item.image" alt="">
+                                </div>
+                                <div class="down-content d-flex justify-content-between">
+                                    <div class="font-bebas">
+                                        <h4>
+                                            <a asp-action="ProductDetails" asp-route-id="@item.id" class="text-dark">@item.name</a>
+                                        </h4>
+                                        <span>@item.price $</span>
+                                    </div>
+                                    <div class="text-dark">
+                                        <ul class="pointer" style="font-size: 20px;">
+
+                                            <li id="added-to-fav">
+                                                <a title="Added to cart"
+                                                   class="text-dark">
+                                                    <i class="fas shopping-cart"></i>
+                                                </a>
+                                            </li>
+
+                                            <li id="add-to-fav">
+                                                <a class="pointer text-dark"
+                                                   onclick="addToCart(@item.id)">
+                                                    <i class="far fa-bookmark"></i>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    }
+                    <!-- product card end -->
+
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- ***** Products Area Ends ***** -->
+
+@section Scripts{
+    <script>
+        function addToCart(bookId) {
+            $.ajax({
+                url: '/Cart/AddToCart?id='+bookId,
+                type: 'POST',
+                success: function (result) {
+                    consol.log(result)
+                },
+                error: function (xhr, status, error) {
+                    // Handle error
+                }
+            });
+        }
+    </script>
+}

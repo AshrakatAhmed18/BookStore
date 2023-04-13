@@ -7,6 +7,7 @@ namespace BooksEccommerce.Models
     {
         [Key]
         public int borrowProcess { get; set; }
+        public int qyantity { get; set; }
 
         [ForeignKey("user")]
         public string userId { get; set; }

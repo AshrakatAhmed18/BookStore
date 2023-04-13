@@ -63,6 +63,9 @@ namespace BooksEccommerce.Migrations
                     b.Property<int>("bookId")
                         .HasColumnType("int");
 
+                    b.Property<int>("qyantity")
+                        .HasColumnType("int");
+
                     b.Property<string>("userId")
                         .HasColumnType("nvarchar(450)");
 

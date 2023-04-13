@@ -30,7 +30,22 @@ namespace BooksEccommerce.Repo.ProductRepos
 
 			}).ToList();
 		}
-		public ProductVM GetById(int id)
+        public List<ProductVM> GetAllByCategoryId(int? id)
+        {
+            return db.Books.Where(b=> b.categoryId==id).Select(b => new ProductVM
+            {
+                id = b.id,
+                name = b.name,
+                description = b.description,
+                categoryId = b.categoryId,
+                categoryName = b.category.name,
+                price = b.price,
+                image = b.image
+
+
+            }).ToList();
+        }
+        public ProductVM GetById(int id)
 		{
 			return db.Books.Select(b => new ProductVM
 			{

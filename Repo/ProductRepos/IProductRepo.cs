@@ -10,5 +10,7 @@ namespace BooksEccommerce.Repo.ProductRepos
 		public void Add(ProductVM book);
 		public void Update(ProductVM book);
 		public void Delete(int id);
+		public List<ProductVM> GetAllByCategoryId(int? id);
+
 	}
 }
