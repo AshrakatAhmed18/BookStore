@@ -1,0 +1,91 @@
+﻿@model BooksEccommerce.Models.ClientRegestration
+
+@{
+    ViewData["Title"] = "addUser";
+}
+
+<h1>addUser</h1>
+
+<h4>ClientRegestration</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="addUser">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <br />
+            <div class="form-group">
+                <label asp-for="name" class="control-label"></label>
+                <input asp-for="name" class="form-control" />
+                <span asp-validation-for="name" class="text-danger"></span>
+            </div>
+            <br />
+
+            <div class="form-group">
+                <label asp-for="email" class="control-label"></label>
+                <input asp-for="email" class="form-control" />
+                <span asp-validation-for="email" class="text-danger"></span>
+            </div>
+            <br />
+
+            <div class="form-group">
+                <label asp-for="country" class="control-label"></label>
+                <input asp-for="country" class="form-control" />
+                <span asp-validation-for="country" class="text-danger"></span>
+            </div>
+            <br />
+
+            <div class="form-group">
+                <label asp-for="city" class="control-label"></label>
+                <input asp-for="city" class="form-control" />
+                <span asp-validation-for="city" class="text-danger"></span>
+            </div>
+            <br />
+
+            <div class="form-group">
+                <label asp-for="address" class="control-label"></label>
+                <input asp-for="address" class="form-control" />
+                <span asp-validation-for="address" class="text-danger"></span>
+            </div>
+            <br />
+
+            <div class="form-group">
+                <label asp-for="phone" class="control-label"></label>
+                <input asp-for="phone" class="form-control" />
+                <span asp-validation-for="phone" class="text-danger"></span>
+            </div>
+            <br />
+
+            <div class="form-group">
+                <label asp-for="password" class="control-label"></label>
+                <input asp-for="password" class="form-control" />
+                <span asp-validation-for="password" class="text-danger"></span>
+            </div>
+            <br />
+
+            <div class="form-group">
+                <label asp-for="repeatedPassword" class="control-label"> Comfirm Password</label>
+                <input asp-for="repeatedPassword" class="form-control" />
+                <span asp-validation-for="repeatedPassword" class="text-danger"></span>
+            </div>
+            <br />
+
+            <label for="userRole" class="control-label">role</label>
+            <select name="userRole" id="role" class="form-select" aria-label="Default select example">
+                @foreach (var item in ViewBag?.roles)
+                {
+                    <option value="@item.Name">@item.Name</option>
+                }
+            </select>
+            <br />
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<br />
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

@@ -10,14 +10,16 @@ namespace BooksEccommerce.Models
         
        }
         
-       public BooksDB(DbContextOptions options) : base(options) { }
+       public BooksDB(DbContextOptions<BooksDB> options) : base(options) { }
 
        protected override void OnModelCreating(ModelBuilder modelBuilder)
        {
             base.OnModelCreating(modelBuilder);
        }
 
-       public DbSet<Book> Books { get; set;}
+      
+
+        public DbSet<Book> Books { get; set;}
        public DbSet<User> clients { get; set;}
 
        public DbSet<Book_User> booksUsers { get;set;}

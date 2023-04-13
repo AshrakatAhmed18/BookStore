@@ -19,7 +19,6 @@ namespace BooksEccommerce.Controllers
             return View();
         }
 
-        [Authorize(Roles = "Admin , Client")]
         public IActionResult About()
         {
             return View();

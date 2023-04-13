@@ -1,10 +1,13 @@
 ﻿using BooksEccommerce.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using System.Data;
 using System.Security.Claims;
 
 namespace BooksEccommerce.Controllers
 {
+
     public class AccountController : Controller
     {
         private readonly UserManager<User> userManager;

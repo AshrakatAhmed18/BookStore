@@ -1,0 +1,45 @@
+﻿@model EditUserViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+
+<h1>Edit User</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-controller="Privlliages" asp-action="Edit" asp-route-id="@Model?.userId">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <br />
+            <div class="form-group">
+                <label asp-for="userName" class="control-label"></label>
+                <input asp-for="userName" class="form-control" readonly value="@Model.userName"/>
+                <span asp-validation-for="userName" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <label asp-for="email" class="control-label"></label>
+                <input asp-for="email" class="form-control" readonly value="@Model.email"/>
+                <span asp-validation-for="email" class="text-danger"></span>
+            </div>
+            <br />
+            <label asp-for="role" class="control-label">role</label>
+            <select name="role" id="role" class="form-select" aria-label="Default select example">
+                @foreach (var item in ViewBag?.roles)
+                {
+                    <option value="@item.Name">@item.Name</option>
+                }
+            </select>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<br />
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
