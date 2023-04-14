@@ -40,7 +40,7 @@
 
 
     <!-- ***** Header Area Start ***** -->
-    <header class="header-area header-sticky background-header">
+    <header class="header-area header-sticky background-header ">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 ">
@@ -63,7 +63,7 @@
                         </span>
 
                         <!-- ** Logo Start ** -->
-                        <a asp-action="Index" asp-controller="User"
+                        <a asp-action="Index" asp-controller="Home"
                             class="logo  ml-auto mr-auto d-inline-block ml-md-auto mr-md-2">
                             <img src="assets/images/logo.png">
                         </a>
@@ -79,25 +79,39 @@
                         </form>
                         <!-- ** Menu Start ** -->
                         <ul class="nav text-capitalize">
-                            <li><a href="index.html" class="active">Home</a></li>
-                            <li><a href="products.html" class="">New in</a></li>
-                            <li><a href="products.html" class="">On sale</a></li>
-                            <li><a href="about.html" class="">About us</a></li>
+                            <li><a asp-controller="Home" asp-action="Index" class="active">Home</a></li>
+                            <li><a asp-controller="Home" asp-action="Products" class="">New in</a></li>
+                            <li><a asp-controller="Home" asp-action="Products" class="">On sale</a></li>
+                            <li><a asp-controller="Home" asp-action="About" class="">About us</a></li>
                             <li><a href="contact.html" class="">Contact us</a></li>
-                            <li><a href="cart.html"><i style="font-size: 20px;color: inherit;"
-                                        class="fa fa-shopping-cart"></i>
-                                    <small id="cart-counter" class="text-danger"></small></a></li>
-                            <li><a href="favourits.html"><i style="font-size: 20px;color: inherit;"
-                                        class="fas fa-bookmark"></i>
-                                    <small id="fav-counter" class="text-danger"></small>
-                                </a>
-                            </li>
-                            <li class="submenu">
-                                <a href="javascript:void(0);">User name</a>
-                                <ul>
-                                    <li><a class="font-weight-bold" href="#">Logout</a></li>
-                                </ul>
-                            </li>
+                           
+
+                            @if (User.Identity.IsAuthenticated == false)
+                            {
+                                <li class="">
+                                    <a class="" asp-action="Register" asp-controller="Account">Register</a>
+                                </li>
+                                <li class="">
+                                    <a class="" asp-action="Login" asp-controller="Account">Login</a>
+                                </li>
+                            }
+                            else
+                            {
+                                <li class="submenu">
+                                    <a href="javascript:void(0);">@User.Identity.Name</a>
+                                    <ul>
+                                        <li><a class="" asp-controller="Account" asp-action="SignOut">Logout</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a asp-controller="Cart" asp-action="Cart">
+                                        <i style="font-size: 20px;color: inherit;"
+                                       class="fa fa-shopping-cart"></i>
+                                        <small id="cart-counter" class="text-danger"></small>
+                                    </a>
+                                </li>
+                            }
+                            
                         </ul>
                         <a class='menu-trigger'>
                             <span>Menu</span>
@@ -152,8 +166,10 @@
     <!-- *****  Side panel ends ***** -->
 
 
-
-   @RenderBody()
+    <div class="p-5 mt-5">
+        @RenderBody()
+    </div>
+  
 
 
 

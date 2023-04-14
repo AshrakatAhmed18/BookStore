@@ -1,11 +1,17 @@
 ﻿@model List<User>
-<h1> Users </h1>
+<h1 class="text-center"> Users </h1>
+@{
+    Layout = "~/Views/Shared/_newadminlayout.cshtml";
+
+}
 <div class="mx-auto w-50 align-content-md-center p-2">
 
     <button type="button" class="btn btn-success d-inline-block  mx-5 w-75 mt-2" onclick="location.href='@Url.Action("addUser", "Privlliages" )'">New User </button>
 </div>
 <br/>
-<table class="table">
+
+<div class="p-3">
+    <table class="table">
     <thead>
         <tr>
            
@@ -32,3 +38,4 @@
         
     </tbody>
 </table>
+</div>

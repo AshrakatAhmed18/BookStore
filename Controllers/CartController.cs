@@ -1,9 +1,11 @@
 ﻿using BooksEccommerce.Repo.CartRepo;
 using BooksEccommerce.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BooksEccommerce.Controllers
 {
+    [Authorize(Roles ="Admin,Client")]
     public class CartController : Controller
     {
         private readonly ICartRepo cartRepo;

@@ -1,10 +1,12 @@
 ﻿using BooksEccommerce.Models;
 using BooksEccommerce.Repo.ProductRepos;
 using BooksEccommerce.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BooksEccommerce.Controllers
 {
+	[Authorize(Roles ="Admin")]
 	public class ProductController : Controller
 	{
 		private readonly IProductRepo productRepo;

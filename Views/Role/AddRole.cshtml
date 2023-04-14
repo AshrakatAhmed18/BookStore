@@ -2,12 +2,13 @@
 
 @{
     ViewData["Title"] = "AddRole";
+    Layout = "~/Views/Shared/_newadminlayout.cshtml";
 }
 
-<h1>AddRole</h1>
+<h1>Add Role</h1>
 
 <hr />
-<div class="row">
+<div class="row w-75 mx-auto">
     <div class="col-md-4">
         <form asp-action="AddRole">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
@@ -17,6 +18,7 @@
                 <input asp-for="roleName" class="form-control" />
                 <span asp-validation-for="roleName" class="text-danger"></span>
             </div>
+            <br />
             <br />
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />

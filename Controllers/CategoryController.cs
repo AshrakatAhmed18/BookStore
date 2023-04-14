@@ -1,9 +1,11 @@
 ﻿using BooksEccommerce.Repo.CategoryRepo;
 using BooksEccommerce.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BooksEccommerce.Controllers
 {
+    [Authorize(Roles ="Admin,Clinet")]
     public class CategoryController : Controller
     {
         private readonly ICategoryRepo categoryRepo;
