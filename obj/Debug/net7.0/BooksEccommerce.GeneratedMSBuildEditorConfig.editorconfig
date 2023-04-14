@@ -9,105 +9,113 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BooksEccommerce
 build_property.RootNamespace = BooksEccommerce
-build_property.ProjectDir = E:\iti\asp.net mvc\project\downloaded\Eccomerce-Web-site-by-ASPNET-Core-MVC-main\
+build_property.ProjectDir = F:\ITI\MVC\New folder\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\iti\asp.net mvc\project\downloaded\Eccomerce-Web-site-by-ASPNET-Core-MVC-main
+build_property.MSBuildProjectDirectory = F:\ITI\MVC\New folder
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/Account/Login.cshtml]
+[F:/ITI/MVC/New folder/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/Account/Register.cshtml]
+[F:/ITI/MVC/New folder/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/Cart/Cart.cshtml]
+[F:/ITI/MVC/New folder/Views/Cart/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDYXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/Category/Edit.cshtml]
+[F:/ITI/MVC/New folder/Views/Category/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/Category/Index.cshtml]
+[F:/ITI/MVC/New folder/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/Category/New.cshtml]
+[F:/ITI/MVC/New folder/Views/Category/New.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcTmV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/Home/Index.cshtml]
+[F:/ITI/MVC/New folder/Views/Home/Aboutus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dHVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI/MVC/New folder/Views/Home/Contactus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0dXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/ITI/MVC/New folder/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/Home/ProductDetails.cshtml]
+[F:/ITI/MVC/New folder/Views/Home/ProductDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0RGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/Home/Products.cshtml]
+[F:/ITI/MVC/New folder/Views/Home/Products.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/Privlliages/addUser.cshtml]
+[F:/ITI/MVC/New folder/Views/Privlliages/addUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpdmxsaWFnZXNcYWRkVXNlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/Privlliages/Edit.cshtml]
+[F:/ITI/MVC/New folder/Views/Privlliages/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpdmxsaWFnZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/Privlliages/Index.cshtml]
+[F:/ITI/MVC/New folder/Views/Privlliages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpdmxsaWFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/Product/Edit.cshtml]
+[F:/ITI/MVC/New folder/Views/Product/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/Product/Index.cshtml]
+[F:/ITI/MVC/New folder/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/Product/New.cshtml]
+[F:/ITI/MVC/New folder/Views/Product/New.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxOZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/Role/AddRole.cshtml]
+[F:/ITI/MVC/New folder/Views/Role/AddRole.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxBZGRSb2xlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/Role/Index.cshtml]
+[F:/ITI/MVC/New folder/Views/Role/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/Shared/Error.cshtml]
+[F:/ITI/MVC/New folder/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/Shared/_LayoutAdmin.cshtml]
+[F:/ITI/MVC/New folder/Views/Shared/_LayoutAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/Shared/_NewAdminLayout.cshtml]
+[F:/ITI/MVC/New folder/Views/Shared/_NewAdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OZXdBZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/ITI/MVC/New folder/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/_ViewImports.cshtml]
+[F:/ITI/MVC/New folder/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/_ViewStart.cshtml]
+[F:/ITI/MVC/New folder/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/iti/asp.net mvc/project/downloaded/Eccomerce-Web-site-by-ASPNET-Core-MVC-main/Views/Shared/_Layout.cshtml]
+[F:/ITI/MVC/New folder/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-4jleqnkkex

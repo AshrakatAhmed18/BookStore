@@ -4,10 +4,21 @@
     Layout = "~/Views/Shared/_newadminlayout.cshtml";
 
 }
+<div class=" container-fluid">
 
-<h1>Roles</h1>
 
-<button class="btn btn-primary" onclick="location.href='@Url.Action("AddRole", "Role" )'">Add New Role</button>
+ <div class="form-head d-flex mb-3 align-items-start">
+        <div class="mr-auto d-none d-lg-block">
+            <h2 class="text-black font-w600 mb-0">Roles</h2>
+        </div>
+
+
+    </div>
+ <div class="row">
+        <div class="col-lg-12">
+            <div class="card">
+                <div class="card-body">
+<button class="btn btn-primary " onclick="location.href='@Url.Action("AddRole", "Role" )'">Add New Role</button>
 <table class="table">
     <thead>
         <tr>
@@ -22,7 +33,7 @@
             <tr>
                 <td>@item.Name</td>
                 <td>
-                    <a asp-controller="Role" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                                        <a class="btn btn-danger shadow  sharp" asp-controller="Role" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
                 </td>
             </tr>
 
@@ -30,5 +41,8 @@
 
     </tbody>
 </table>
-
-
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

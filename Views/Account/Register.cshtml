@@ -7,8 +7,9 @@
 <h1>New Clinet</h1>
 
 <hr />
-<div class="row">
-    <div class="col-md-4">
+<div class=" container">
+<div class="  row  shadow p-3 mb-5 bg-white rounded mt-5">
+    <div class=" col-md-6 ">
         <form asp-action="Register">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
@@ -16,8 +17,8 @@
                 <input asp-for="name" class="form-control" />
                 <span asp-validation-for="name" class="text-danger"></span>
             </div>
-            <br />
-            <div class="form-group">
+
+                <div class="form-group">
                 <label asp-for="email" class="control-label"></label>
                 <input asp-for="email" class="form-control" />
                 <span asp-validation-for="email" class="text-danger"></span>
@@ -65,5 +66,5 @@
         </form>
     </div>
 </div>
-
+</div>
 

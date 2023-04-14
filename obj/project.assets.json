@@ -10877,24 +10877,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Assem Amr\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\pc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\iti\\asp.net mvc\\project\\downloaded\\Eccomerce-Web-site-by-ASPNET-Core-MVC-main\\BooksEccommerce.csproj",
+      "projectUniqueName": "F:\\ITI\\MVC\\New folder\\BooksEccommerce.csproj",
       "projectName": "BooksEccommerce",
-      "projectPath": "E:\\iti\\asp.net mvc\\project\\downloaded\\Eccomerce-Web-site-by-ASPNET-Core-MVC-main\\BooksEccommerce.csproj",
-      "packagesPath": "C:\\Users\\Assem Amr\\.nuget\\packages\\",
-      "outputPath": "E:\\iti\\asp.net mvc\\project\\downloaded\\Eccomerce-Web-site-by-ASPNET-Core-MVC-main\\obj\\",
+      "projectPath": "F:\\ITI\\MVC\\New folder\\BooksEccommerce.csproj",
+      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+      "outputPath": "F:\\ITI\\MVC\\New folder\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Assem Amr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
